@@ -1,6 +1,6 @@
  {
     "name": "StackOverFlow Search",
-    "description": "Add support to the omnibox to search the WAKANOW site for Flight",
+    "description": "Add support to the omnibox to search the StackOverFlow",
     "omnibox": {
       "keyword": "stackoverflow"
           },

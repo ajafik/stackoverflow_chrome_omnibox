@@ -1,6 +1,6 @@
 function resetDefaultSuggestion() {
   chrome.omnibox.setDefaultSuggestion({
-    description: 'wakanow.com: Search the WAKANOW.com for %s'
+    description: 'StackOverFlow.com: Search the StackOverFlow.com for %s'
   });
 }
 
